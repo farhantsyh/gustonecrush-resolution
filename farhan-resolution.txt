@@ -1,7 +1,0 @@
-Halo, salam kenal gustonecrush. Nama saya Farhan dari Stanford. This is my resolution for this year
-
-1. I want to make a good website using
-  * React Js
-  * SASS
-  * Django
-2. I want to win in a competitive programming competition a lot
